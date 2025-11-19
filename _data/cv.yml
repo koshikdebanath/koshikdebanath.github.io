@@ -1,97 +1,169 @@
-- title: General Information
+- title: Research Objective
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Objective
+      value: A highly motivated researcher with extensive experience in Natural Language Processing, Generative AI, and Deep Learning, evidenced by multiple peer-reviewed publications. Seeking to pursue a PhD to develop novel multi-modal models and explore their applications in complex reasoning and misinformation detection.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Sc. in Computer Science and Engineering
+      institution: Rajshahi University of Engineering & Technology, Rajshahi, Bangladesh
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "CGPA: 3.27 / 4.00"
+        - "Relevant Coursework: Linear Algebra, Data Structures and Algorithms, Object Oriented Programming, Discrete Mathematics, Database Management, Applied Statistics & Queuing Theory, Digital Image Processing, Neural Network and Fuzzy System, Artificial Intelligence, Data Mining"
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Member
+      institution: Young Learners' Research Lab (YLRL), Rajshahi, Bangladesh
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted interdisciplinary research in NLP, Generative AI, and misinformation detection, resulting in five peer-reviewed publications.
+        - Collaborated on projects focusing on low-resource NLP for the Bengali language, analysis of political discourse, and classification of AI-generated text.
+        - Engaged in a collaborative environment to explore cutting-edge ML/DL applications, aligning with the lab's mission to foster impactful research.
+
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Journal Articles
+      items:
+        - "<b>Debanath, Koshik</b>, Aich, Sagor, and Srizon, Azmain Yakin. <i>\"Bayesian Physics-Informed Neural Networks for Parameter Inference and Uncertainty Quantification in Reaction-Diffusion Models of Wound Healing.\"</i> <b>Under review</b>, <a href='https://www.sciencedirect.com/journal/mathematical-biosciences'>Mathematical Biosciences</a> (July 2025). Preprint available at <a href='https://ssrn.com/abstract=5366003'>SSRN</a> or <a href='http://dx.doi.org/10.2139/ssrn.5366003'>DOI</a>."
+    - title: Conference Papers
+      items:
+        - "<b>K. Debanath</b>, A. F. M. M. Rahman and M. A. Hossain, <i>\"An Attention-Based Deep Learning Approach to Knee Injury Classification from MRI Images,\"</i> <a href='https://ieeexplore.ieee.org/document/10441340'>2023 26th International Conference on Computer and Information Technology (ICCIT)</a>, Cox's Bazar, Bangladesh, 2023, pp. 1-6, doi: <a href='https://doi.org/10.1109/ICCIT60459.2023.10441340'>10.1109/ICCIT60459.2023.10441340</a>."
+        - "<b>K. Debanath</b>, S. Aich and A. Y. Srizon, <i>\"Advancing Low-Resource NLP: Contextual Question Answering for Bengali Language Using Llama,\"</i> <a href='https://ieeexplore.ieee.org/document/11013841'>2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)</a>, Chittagong, Bangladesh, 2025, pp. 1-6, doi: <a href='https://doi.org/10.1109/ECCE64574.2025.11013841'>10.1109/ECCE64574.2025.11013841</a>."
+        - "S. Aich, <b>K. Debanath</b> and A. Y. Srizon, <i>\"Distinguishing Between Formal and Colloquial: A Multilingual BERT Approach to Bengali Language Classification,\"</i> <a href='https://ieeexplore.ieee.org/document/11013999'>2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)</a>, Chittagong, Bangladesh, 2025, pp. 1-6, doi: <a href='https://doi.org/10.1109/ECCE64574.2025.11013999'>10.1109/ECCE64574.2025.11013999</a>."
+        - "<b>K. Debanath</b>, S. Aich and A. Y. Srizon, <i>\"Analyzing Bot Activity and Political Discourse in the 2024 U.S. Presidential Election: A Machine Learning Approach to Misinformation and Manipulation,\"</i> <a href='https://ieeexplore.ieee.org/document/11160229'>2nd International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM-2025)</a>, Gazipur, Bangladesh, 2025, pp. 1-6, doi: <a href='https://doi.org/10.1109/NCIM65934.2025.11160229'>10.1109/NCIM65934.2025.11160229</a>."
+        - "S. Aich, <b>K. Debanath</b>, and A. Y. Srizon, <i>\"Distinguishing Human-Written and AI-Generated Text: A Comprehensive Study Using Explainable Artificial Intelligence in Text Classification,\"</i> <a href='https://ieeexplore.ieee.org/document/11160309'>2nd International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM-2025)</a>, Gazipur, Bangladesh, 2025, pp. 1-6, doi: <a href='https://doi.org/10.1109/NCIM65934.2025.11160309'>10.1109/NCIM65934.2025.11160309</a>."
+        - "<b>K. Debanath</b>, <i>\"Physics-Informed Neural Networks for Real-Time Anomaly Detection in Power System Dynamics,\"</i> <b>Accepted</b>, To appear in <a href='https://confbim.com/'>3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025)</a>."
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineer I
+      institution: Universal Machine Inc., Sunnyvale, CA, USA (Remote)
+      year: Apr 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: "YouTube Live Stream Bot:"
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Developed Chrome Extension automating YouTube Live chat using JavaScript, Chrome APIs, and async requests.
+            - Integrated YouTube & OpenAI APIs for real-time chat fetching/posting and AI response generation.
+            - Engineered AI features managing conversational history (chrome.storage) and prompt engineering for context/recall.
+            - Implemented secure Google OAuth (chrome.identity) and robust error handling for external APIs.
+        - title: "cBORG DAO Governance Platform:"
+          contents:
+            - Built a full-stack decentralized governance platform using React/Next.js, FastAPI, PostgreSQL, and Ethereum smart contracts for community proposal voting and treasury management.
+            - Integrated OpenAI GPT-4o to automatically parse natural language chat messages into structured trading proposals (buy/sell/hold) with confidence scoring and real-time voting.
+            - Implemented SIWE (Sign-In With Ethereum) wallet linking with nonce-based authentication, JWT tokens, and privacy-preserving user identity management.
+            - Developed live chat with proposal detection, voting dashboards, and mobile-responsive UI using Socket.io, Tailwind CSS, and modern React patterns.
+            - Created Solidity smart contracts for automated proposal execution and member verification, deployed on Ethereum testnet with Hardhat development framework.
+            - Implemented rate limiting, CORS protection, encrypted sessions with Redis, and comprehensive authentication flows for secure Web3 application deployment.
+    - title: Data Scientist
+      institution: Manaknightdigital Inc., Toronto, ON, Canada (Remote)
+      year: Mar 2023 - Apr 2025
       description:
-        - Description 1.
-        - Description 2.
+        - title: "Chatbot Development:"
+          contents:
+            - Collected and processed product information using Excel, pandas, and openpyxl.
+            - Integrated GPT-4 to respond to user queries and manage token size limitations.
+            - Utilized libraries like nltk, sklearn, and Flask for deploying the chatbot.
+        - title: "Fraud Detection System:"
+          contents:
+            - Performed EDA and feature extraction on transaction datasets.
+            - Developed and optimized ML models including Xgboost, SVC, and Logistic Regression.
+            - Achieved 90% accuracy in detecting fraudulent transactions and deployed the system using Flask.
+        - title: "Data-driven ChatBot for Financial Queries:"
+          contents:
+            - Implemented RAG and Pinecone, enhancing data retrieval speed by 40%, enabling faster decision-making for lenders.
+            - Improved data retrieval accuracy by 25% using Cohere reranking, resulting in more precise financial advice.
+            - Applied Beautiful Soup and PyPDF2 for data scraping and processing.
+        - title: "Sports Data Analysis ChatBot:"
+          contents:
+            - Scraped and analyzed football data to predict match outcomes.
+            - Integrated RAG and Pinecone for efficient data querying and vector database management.
+            - Employed Beautiful Soup and PyPDF2 for data collection, analyzing 2 million football data points to achieve a 90% prediction accuracy, supporting strategic betting decisions.
+        - title: "Custom Image Generation System:"
+          contents:
+            - Developed an image generation platform using Stable Diffusion.
+            - Fine-tuned custom models to generate images based on user-defined presets.
+            - Utilized PyTorch and transformers for model training and deployment and finally used Docker for containerization.
+        - title: "AI-driven Data Matching System:"
+          contents:
+            - Organizational data was segmented using models such as Llama-2-7B and then fine-tuned to extract sections and subsections.
+            - Applied cosine similarity for matching data to specific tenders.
+            - Integrated GPT-4 for generating rationale from corresponding data.
+            - Matched organizational data against specific tenders, increasing successful tender submissions by 70%.
+        - title: "AI-Powered Collectible Authentication & Appraisal Platform:"
+          contents:
+            - Trained deep learning models (PyTorch/TensorFlow, e.g., InceptionV3, ResNet50, CLIP) for image classification (authenticity) and similarity search.
+            - Engineered an efficient CLIP+FAISS image similarity system for large-scale appraisal lookups.
+            - Developed Flask/FastAPI APIs to serve model predictions (classification, similarity, appraisal).
+            - Designed a multi-modal tag identification system using Serverless (RunPod API), TF-IDF, and CLIP/FAISS similarity.
+            - Implemented asynchronous data pipelines (aiohttp, asyncio, pandas) for large-scale image and metadata ingestion from APIs.
+            - Developed a Streamlit web application for user image uploads and displaying similarity/appraisal results via API calls.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python (Expert), C/C++, Java, JavaScript, SQL, MATLAB
+    - title: AI/ML Frameworks
       items:
-        - Description 1.
-        - Description 2.
+        - PyTorch, TensorFlow, Keras, Scikit-learn, LangChain, Transformers, OpenCV
+    - title: AI/ML Expertise
+      items:
+        - "Generative AI (LLMs, RAG, Fine-tuning), NLP, Computer Vision, Deep Learning, Time Series Analysis, Prompt Engineering, Explainable AI (XAI), Data Mining"
+    - title: Tools & Platforms
+      items:
+        - Git, Docker, FastAPI, Flask, Django, CI/CD, MLOps, Pinecone, MongoDB, MySQL, SQLite
 
-- title: Other Interests
+- title: Competitions & Achievements
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Hackathon Champion at Machine Hack: Global Ranking 539 out of 8,861."
+    - "Data Science Student Championship: Secured 7th position among 1,029 participants."
+    - "LLM Hackathon (Decoding Discourse - AI vs Human): Ranked 5th out of 227 participants."
+    - "Rental Bikes Volume Prediction Hackathon: Ranked 3rd."
+    - "News Category Prediction Hackathon: Ranked 7th."
+    - "Predicting House Prices in Bengaluru: Ranked 24th out of 2,885 participants with 87% accuracy."
+    - "Subscriber Prediction Talent Search Hackathon: Ranked 26th out of 5,045 participants."
+    - "Analytics Olympiad 2022: Ranked 82nd out of 1,029 participants."
+    - "Data Science Student Championship - South Zone: Ranked 73rd out of 554 participants."
+    - "Decoding Discourse - AI vs Human: Ranked 5th out of 293 participants."
+
+- title: Open Source Contributions
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/traceloop/openllmetry/pull/2800">OpenLLMetry PR #2800</a>
+      year: 2024
+      description:
+        - Resolved a bug where Python data classes passed as parameters were not being serialized and logged in workflows and tasks.
+        - Implemented proper serialization support for dataclasses, ensuring they are correctly captured as inputs and outputs in observability logs.
+        - Added automated tests to verify serialization behavior and prevent regressions.
+    - title: <a href="https://github.com/traceloop/openllmetry/pull/1836">OpenLLMetry PR #1836</a>
+      year: 2024
+      description:
+        - Contributed to OpenLLMetry by fixing a TypeError in the OpenAI embeddings metrics handler caused by comparisons between NoneType and integers; implemented proper handling of None values with error logging.
+        - Added automated tests to validate the fix and ensure the robustness of embeddings metrics processing.
+        - Improved overall stability by preventing this error from impacting workflow execution.
+    - title: <a href="https://github.com/pinecone-io/canopy/commit/44cfad11add34fc61d6e9f9f0ac4071ff24195bf">Pinecone Canopy Contribution</a>
+      year: 2024
+      description: Contributed to Pinecone Canopy, a Retrieval-Augmented Generation (RAG) framework.
+
+- title: Certifications & Professional Development
+  type: time_table
+  contents:
+    - title: Understanding and Applying Text Embeddings
+      institution: DeepLearning.AI
+      year: 2024
+      description:
+        - "A comprehensive short course on the end-to-end development of applications using text embeddings. Key topics included:"
+        - title:
+          contents:
+            - Fundamentals of creating, understanding, and visualizing embedding spaces.
+            - Leveraging embeddings for practical applications like semantic search and retrieval.
+            - Building a complete Q&A system (Retrieval-Augmented Generation) using Google's Vertex AI.

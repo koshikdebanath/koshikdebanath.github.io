@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: koshik-debanath.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 10 # number of news items to display (leave blank to show all)
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Software Engineer at <a href='https://universalmachine.io/'>Universal Machine Inc.</a>, where I build AI-powered applications and decentralized governance platforms. Previously, I worked as a Data Scientist at <a href='https://www.manaknightdigital.com/'>Manaknightdigital Inc.</a>, developing end-to-end ML solutions including RAG systems, chatbots, fraud detection, and custom image generation platforms.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research spans three interconnected areas: **natural language processing**, **generative AI**, and **deep learning**. Each builds upon lessons from the previous, driven by a central question: How can we make the latest advancements in visual computing more accurate and effective, particularly in healthcare settings?
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my BSc in **Computer Science & Engineering** from Rajshahi University of Engineering & Technology (RUET) in 2024. Currently, I'm a Research Member at <a href='https://azmainsrizon.com/my-lab.php'>Young Learners' Research Lab (YLRL)</a>, where I conduct interdisciplinary research in NLP, Generative AI, and misinformation detection. My work spans computer vision, time series forecasting, and business analytics. Recently, I published research on low-resource NLP for Bengali language, AI-generated text classification, and physics-informed neural networks.
+
+__Research Interests:__
+
+- Natural Language Processing (NLP)
+- Generative AI (LLMs, RAG, Fine-tuning)
+- Deep Learning and Computer Vision
+- Explainable AI (XAI)
+- Physics-Informed Neural Networks
+- Misinformation Detection

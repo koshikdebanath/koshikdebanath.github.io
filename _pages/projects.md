@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of AI/ML projects spanning NLP, computer vision, and data science.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [AI/ML]
 horizontal: false
 ---
 
@@ -29,7 +29,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -55,7 +55,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-5">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
