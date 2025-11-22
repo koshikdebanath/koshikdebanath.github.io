@@ -53,6 +53,6 @@ scholar_userid: U6CRjb8AAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: /assets/img/kowshik.png # can be png, svg, jpg
+  logo: /assets/img/koshik-iccit.jpg # can be png, svg, jpg
   title: Portfolio
-  url: https://kowshik24.github.io/kowshik.github.io/
+  url: https://koshikdebanath.github.io/
