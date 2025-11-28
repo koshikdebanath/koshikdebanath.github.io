@@ -526,7 +526,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://kowshik24.github.io/kowshik.github.io/", "_blank");
+          window.open("https://koshikdebanath.github.io/", "_blank");
         },
       },{
       id: 'light-theme',
