@@ -105,6 +105,113 @@
             - Implemented asynchronous data pipelines (aiohttp, asyncio, pandas) for large-scale image and metadata ingestion from APIs.
             - Developed a Streamlit web application for user image uploads and displaying similarity/appraisal results via API calls.
 
+- title: Projects
+  type: time_table
+  contents:
+    - title: AI Investment Committee for Binance
+      year: 2024
+      description:
+        - Designed a multi-agent AI system with specialized research, trading, and risk agents that synthesize market data into actionable cryptocurrency recommendations.
+        - "Tech Stack: Python, OpenAI/Gemini API, Binance API, Streamlit, Pydantic."
+      linkitems:
+        - linkname: GitHub
+          link: https://github.com/kowshik24/binance-agent
+        - linkname: Live Demo
+          link: https://binance-agent.streamlit.app/
+    - title: Stock Price Forecasting Dashboards
+      year: 2023
+      description:
+        - Engineered LSTM pipelines to forecast Bangladeshi and global equities, packaging the workflows into interactive Streamlit dashboards for retail investors.
+        - "Tech Stack: Python, TensorFlow, Keras, LSTM, Pandas, Plotly, Streamlit, bdshare."
+      linkitems:
+        - linkname: BD App
+          link: https://bdstock.streamlit.app/
+        - linkname: Global App
+          link: https://stocksage.streamlit.app/
+    - title: AI vs Human Generated Text Detector
+      year: 2024
+      description:
+        - Built a web application that classifies whether text is human-written or AI-generated using Machine Hack’s LLM Hackathon dataset.
+        - Trained and tuned an SVC model after extensive preprocessing, feature engineering, and explainability analysis.
+        - "Tech Stack: Flask, Scikit-learn, Python, NumPy, Pandas, Matplotlib."
+      linkitems:
+        - linkname: Live App
+          link: https://decoding-ai-vs-human.onrender.com/
+    - title: DataSciencePilot (RAG System)
+      year: 2024
+      description:
+        - Built a chat-based interface that lets users query custom PDFs via Pinecone vector search paired with LLaMA-2 generation.
+        - "Tech Stack: LangChain, Transformers, LLaMA-2, Pinecone, Python."
+      linkitems:
+        - linkname: GitHub
+          link: https://github.com/kowshik24/DataSciencePilot
+    - title: CVAnalyzerPro
+      year: 2024
+      description:
+        - Developed an AI assistant that benchmarks candidate CVs against job descriptions, surfaced alignment scores, and highlighted gaps automatically.
+        - "Tech Stack: OpenAI API, Gemini API, Streamlit."
+      linkitems:
+        - linkname: Live Demo
+          link: https://cvanalyzerpro-lxv2nxsyvdx5ap55fbh9jl.streamlit.app/
+    - title: UberRidePrediction
+      year: 2023
+      description:
+        - Packaged an XGBoost fare estimation pipeline as a reusable Python library and deployed inference APIs with FastAPI for real-time fare predictions.
+        - "Tech Stack: Scikit-learn, XGBoost, CI/CD, FastAPI, Render."
+      linkitems:
+        - linkname: PyPI
+          link: https://pypi.org/project/UberRidePrediction/
+        - linkname: Live API
+          link: https://uber-ride-price-prediction.onrender.com/
+    - title: Pinecone Integration Suite
+      year: 2024
+      description:
+        - Authored PineconeUtils and PineconePDFExtractor libraries that simplify ingestion, chunking, and indexing workflows for Retrieval-Augmented Generation pipelines.
+        - "Tech Stack: Pinecone, Cohere, OpenAI, PyPDF2."
+      linkitems:
+        - linkname: PyPI
+          link: https://pypi.org/project/pineconeutils/
+    - title: CaptionCraft
+      year: 2024
+      description:
+        - Created a Streamlit experience for generating rich image captions using Google Gemini Pro Vision, enabling content teams to draft posts rapidly.
+        - "Tech Stack: Gemini, Streamlit, Python."
+      linkitems:
+        - linkname: Live Demo
+          link: https://captioncraft-b7h9xotupkyi2xs64gxmo9.streamlit.app/
+    - title: Market Price Prediction Suite
+      year: 2023
+      description:
+        - Implemented and compared multiple time-series models (ARIMA, SARIMAX, LSTM, GRU, XGBoost, Prophet) to forecast commodity price trends.
+        - "Tech Stack: Python, TensorFlow, Keras, XGBoost, Prophet."
+      linkitems:
+        - linkname: GitHub
+          link: https://github.com/kowshik24/Time-Series-Analysis
+    - title: Movie Recommendation Engine
+      year: 2023
+      description:
+        - Built a cosine-similarity KNN recommender that suggests films based on user-selected favorites with a lightweight Flask front end.
+        - "Tech Stack: Scikit-learn, Pandas, Flask, SciPy."
+      linkitems:
+        - linkname: Live App
+          link: https://movie-recommendation-ae4m.onrender.com/
+    - title: Potato Disease Classification
+      year: 2022
+      description:
+        - Developed a convolutional neural network that achieved near-100% accuracy diagnosing potato leaf diseases from images.
+        - "Tech Stack: TensorFlow, Keras, CNN."
+      linkitems:
+        - linkname: GitHub
+          link: https://github.com/kowshik24/Potato-Disease-Classification
+    - title: Diabetes Prediction (PyTorch ANN)
+      year: 2022
+      description:
+        - Built and deployed a PyTorch-based neural network that predicts diabetes risk using clinical features and serves results via Flask + Gunicorn.
+        - "Tech Stack: PyTorch, Flask, Gunicorn, Pandas."
+      linkitems:
+        - linkname: GitHub
+          link: https://github.com/kowshik24/Diabetes-Prediction-Pytorch-ANN
+
 - title: Skills
   type: nested_list
   contents:
