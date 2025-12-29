@@ -416,7 +416,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ai-vs-human-generated-text-detector",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SynthDetect/";
+            },},{id: "projects-ai-companion-plugin",
+          title: 'AI Companion Plugin',
+          description: "An AI assistant plugin for Obsidian that allows you to ask questions, get responses, and include page content as context.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai_companion_plugin/";
+            },},{id: "projects-ai-vs-human-generated-text-detector",
           title: 'AI vs Human Generated Text Detector',
           description: "An interactive web application to classify whether a given text is human-written or AI-generated.",
           section: "Projects",handler: () => {
