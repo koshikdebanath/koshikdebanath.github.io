@@ -105,7 +105,7 @@ jobs:
       - name: Build Zola Blog 📝
         run: |
           cd blog
-          zola build --output-dir ../_site/blog
+          zola build --output-dir ../_site/blog --force
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
