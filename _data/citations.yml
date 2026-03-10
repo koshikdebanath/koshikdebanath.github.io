@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-24'
+  last_updated: '2026-02-20'
 papers:
   U6CRjb8AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,15 +14,15 @@ papers:
     title: Physics-Informed Neural Networks for Real-Time Anomaly Detection in Power System Dynamics
     year: Unknown Year
   U6CRjb8AAAAJ:d1gkVwhDpl0C:
-    citations: 1
+    citations: 2
     title: 'Advancing Low-Resource NLP: Contextual Question Answering for Bengali Language Using Llama'
     year: '2025'
   U6CRjb8AAAAJ:qjMakFHDy7sC:
-    citations: 0
-    title: Bayesian Physics-Informed Neural Networks for Parameter Inference and Uncertainty Quantification in Reaction-Diffusion Models of Wound Healing
-    year: Unknown Year
-  U6CRjb8AAAAJ:u-x6o8ySG0sC:
     citations: 1
+    title: Bayesian Physics-Informed Neural Networks for Parameter Inference and Uncertainty Quantification in Reaction-Diffusion Models of Wound Healing
+    year: '2025'
+  U6CRjb8AAAAJ:u-x6o8ySG0sC:
+    citations: 2
     title: 'Distinguishing Between Formal and Colloquial: A Multilingual BERT Approach to Bengali Language Classification'
     year: '2025'
   U6CRjb8AAAAJ:u5HHmVD_uO8C:
