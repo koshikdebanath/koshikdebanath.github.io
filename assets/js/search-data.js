@@ -416,9 +416,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-synthdetect-ultra-ai-image-forensics",
+          title: 'SynthDetect Ultra: AI Image Forensics',
+          description: "Advanced forensic tool to distinguish authentic photographs from AI-generated images (GANs, Diffusion). Uses explainable, physics-inspired and statistical features to detect synthetic &quot;fingerprints&quot; invisible to the naked eye.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SynthDetect/";
             },},{id: "projects-ai-companion-plugin",
