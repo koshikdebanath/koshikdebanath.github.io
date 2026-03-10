@@ -22,4 +22,5 @@ Implemented a KNN model using cosine similarity to recommend movies based on use
 </div>
 
 **Links:**
+
 - [Live App](https://movie-recommendation-ae4m.onrender.com/)

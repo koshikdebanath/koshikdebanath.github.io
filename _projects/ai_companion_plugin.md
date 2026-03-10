@@ -22,12 +22,15 @@ AI Companion Plugin is an AI assistant plugin for Obsidian that enables users to
 ## Usage
 
 1. **Install the Plugin**
+
    - Download or install the AI Companion Plugin from the Obsidian community plugins directory or GitHub.
 
 2. **Configure OpenAI API Key**
+
    - Enter your OpenAI API key in the plugin settings to enable AI-powered features.
 
 3. **Invoke the AI Assistant**
+
    - Use the `/ai` command in any note to start a conversation or ask a question.
 
 4. **Insert Responses**

@@ -24,7 +24,7 @@ My research spans three interconnected areas: **natural language processing**, *
 
 I earned my BSc in **Computer Science & Engineering** from Rajshahi University of Engineering & Technology (RUET) in 2024. Currently, I'm a Research Member at <a href='https://azmainsrizon.com/my-lab.php'>Young Learners' Research Lab (YLRL)</a>, where I conduct interdisciplinary research in NLP, Generative AI, and misinformation detection. My work spans computer vision, time series forecasting, and business analytics. Recently, I published research on low-resource NLP for Bengali language, AI-generated text classification, and physics-informed neural networks.
 
-__Research Interests:__
+**Research Interests:**
 
 - Natural Language Processing (NLP)
 - Generative AI (LLMs, RAG, Fine-tuning)

@@ -32,5 +32,6 @@ An interactive web-based tool to visualize and understand convolution operations
 This educational tool helps students and practitioners understand the fundamental operations of convolutional neural networks (CNNs) by providing an intuitive, visual interface for exploring how convolution filters transform input images.
 
 **Links:**
+
 - [Live Demo](https://kowshik24.github.io/convolution-visualizer/)
 - [GitHub Repository](https://github.com/kowshik24/convolution-visualizer)

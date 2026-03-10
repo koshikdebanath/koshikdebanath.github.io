@@ -22,4 +22,5 @@ Built a chat-based interface to query custom PDFs using Pinecone for vector sear
 </div>
 
 **Links:**
+
 - [GitHub Repository](https://github.com/kowshik24/DataSciencePilot)

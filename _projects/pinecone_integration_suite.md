@@ -22,4 +22,5 @@ Authored and published two Python libraries (PineconeUtils, PineconePDFExtractor
 </div>
 
 **Links:**
+
 - [PyPI Package](https://pypi.org/project/pineconeutils/)

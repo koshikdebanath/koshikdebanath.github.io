@@ -32,5 +32,6 @@ Interactive tool to visualize attention mechanisms between sentences using vario
 This educational tool provides an intuitive way to understand how attention mechanisms work in transformer models and natural language processing tasks. It helps visualize how models learn to focus on relevant parts of input when processing sequences.
 
 **Links:**
+
 - [Live Demo](https://kowshik24.github.io/attention-visualization/)
 - [GitHub Repository](https://github.com/kowshik24/attention-visualization)

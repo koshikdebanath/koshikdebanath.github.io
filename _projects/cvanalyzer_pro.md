@@ -22,4 +22,5 @@ Developed an AI tool to automatically score candidate CVs against company job re
 </div>
 
 **Links:**
+
 - [Live App](https://cvanalyzerpro-lxv2nxsyvdx5ap55fbh9jl.streamlit.app/)

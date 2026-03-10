@@ -22,5 +22,6 @@ Packaged an XGBoost model as a Python module to predict Uber fares and deployed 
 </div>
 
 **Links:**
+
 - [PyPI Package](https://pypi.org/project/UberRidePrediction/)
 - [Live App](https://uber-ride-price-prediction.onrender.com/)

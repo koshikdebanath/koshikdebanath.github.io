@@ -22,5 +22,6 @@ Engineered LSTM models to forecast stock prices for Bangladeshi and global marke
 </div>
 
 **Links:**
+
 - [BD Stock App](https://bdstock.streamlit.app/)
 - [Global Stock App](https://stocksage.streamlit.app/)

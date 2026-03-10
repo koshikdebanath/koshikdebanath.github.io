@@ -22,4 +22,5 @@ Created a web application to generate image captions using the Google Gemini Pro
 </div>
 
 **Links:**
+
 - [Live App](https://captioncraft-b7h9xotupkyi2xs64gxmo9.streamlit.app/)

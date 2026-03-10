@@ -22,4 +22,5 @@ Constructed an Artificial Neural Network with PyTorch to predict patient diabete
 </div>
 
 **Links:**
+
 - [GitHub Repository](https://github.com/kowshik24/Diabetes-Prediction-Pytorch-ANN)

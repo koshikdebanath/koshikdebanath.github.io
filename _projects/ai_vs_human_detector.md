@@ -8,7 +8,7 @@ category: AI/ML
 related_publications: false
 ---
 
-Developed an interactive web application to classify whether a given text is human-written or AI-generated. Preprocessed and cleaned the dataset, conducted Exploratory Data Analysis (EDA), and applied feature engineering techniques. Trained and optimized a Support Vector Classifier (SVC) using the *Machine Hack Competition* dataset: LLM Hackathon – Decoding Discourse: AI vs Human.
+Developed an interactive web application to classify whether a given text is human-written or AI-generated. Preprocessed and cleaned the dataset, conducted Exploratory Data Analysis (EDA), and applied feature engineering techniques. Trained and optimized a Support Vector Classifier (SVC) using the _Machine Hack Competition_ dataset: LLM Hackathon – Decoding Discourse: AI vs Human.
 
 **Tech Stack:** Flask, scikit-learn, Python, NumPy, Pandas, Matplotlib
 
@@ -22,4 +22,5 @@ Developed an interactive web application to classify whether a given text is hum
 </div>
 
 **Links:**
+
 - [Live App](https://decoding-ai-vs-human.onrender.com/)

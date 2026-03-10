@@ -22,4 +22,5 @@ Built a CNN model achieving near-100% accuracy in classifying potato diseases fr
 </div>
 
 **Links:**
+
 - [GitHub Repository](https://github.com/kowshik24/Potato-Disease-Classification)

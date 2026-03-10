@@ -22,5 +22,6 @@ Designed a multi-agent AI system with specialized agents to provide cryptocurren
 </div>
 
 **Links:**
+
 - [GitHub Repository](https://github.com/kowshik24/binance-agent)
 - [Live App](https://binance-agent.streamlit.app/)
