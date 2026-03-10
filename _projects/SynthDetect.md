@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SynthDetect Ultra: AI Image Forensics
+title: "SynthDetect Ultra: AI Image Forensics"
 description: Advanced forensic tool to distinguish authentic photographs from AI-generated images (GANs, Diffusion). Uses explainable, physics-inspired and statistical features to detect synthetic "fingerprints" invisible to the naked eye.
 img: /assets/img/educational/synthdetect.gif
 importance: 3
