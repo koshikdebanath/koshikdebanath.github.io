@@ -1,0 +1,41 @@
+base_url = "https://koshikdebanath.github.io/blog"
+compile_sass = true
+title = "Koshik Debanath"
+description = "AI, Research, and Engineering"
+generate_feeds = true
+theme = "after-dark"
+
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+
+# When set to "true", a search index is built from the pages and section
+# content for `default_language`.
+build_search_index = true 
+
+[markdown]
+
+[markdown.highlighting]
+theme = "one-dark-pro"
+
+[search]
+index_format = "elasticlunr_json"
+
+[extra]
+author = "Koshik Debanath"
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
+after_dark_title = "My Personal Blog Site"
+
+# Nicer codeblocks with copy to clipboard 
+codeblock = true
+
+# Enable MathJax support
+latex = true
+
+# Enable search bar 
+enable_search = true 
